@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "heap-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/heap/heap-ios-sdk.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9a745741613fc6dc3ca3f990694b7b80629f120c"
+      }
+    }
+  ],
+  "version" : 2
+}
